@@ -23,6 +23,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
-        // TODO:  use the startSimulation method in MyView to unregister the listener
+        // TODO:  use the stopSimulation method in MyView to unregister the listener
     }
 }
