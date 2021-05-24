@@ -1,4 +1,4 @@
-package edu.sjsu.android.project3yanchen;
+package edu.sjsu.android.project3graceleung;
 
 import android.app.Activity;
 import android.content.Context;

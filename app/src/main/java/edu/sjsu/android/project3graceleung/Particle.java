@@ -1,4 +1,4 @@
-package edu.sjsu.android.project3yanchen;
+package edu.sjsu.android.project3graceleung;
 
 public class Particle {
     private static final float COR = 0.7f;

@@ -1,4 +1,4 @@
-package edu.sjsu.android.project3yanchen;
+package edu.sjsu.android.project3graceleung;
 
 import android.content.Context;
 import android.graphics.Bitmap;
